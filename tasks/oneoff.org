@@ -1,0 +1,15 @@
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TITLE: Project Management Oneoff Tasks
+
+* List of Oneoff Tasks :TASK:ONEOFF:PROJECTMANAGEMENT:META:
+** OUTLINE Study the Fundamental of Tasks Management
++ *OBJECTIVE:* Study the basics of different tasks management system (include it in the new notes)
++ [[https://www.youtube.com/watch?v=ZKOL-rZ79gs][Project Management Simplify @Youtube]]
+*** RESEARCH Check out Eisenhower Matrix :TASKMANAGEMENT:
++ *OBJECTIVE:* Checkout Eisenhower matrix for prioritizing tasks
++ *Reference:* [[https://www.eisenhower.me/eisenhower-matrix/][The Eisenhower Matrix @Blog]]
+*** RESEARCH Check out Agile Project Managing
++ *OBJECTIVE:* What is Agile Project Managing and is it relevant
++ *Reference:* [[https://www.atlassian.com/agile/project-management][Agile Project Management @Atlassian]]

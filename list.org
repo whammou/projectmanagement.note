@@ -1,0 +1,4 @@
+#+TITLE: Project Management Lists
+#+OPTIONS: todo:nil tasgs:nil ^:nil
+
+* Lists :PROJECTMANAGEMENT:TEMPLATE:
