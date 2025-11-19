@@ -1,4 +1,0 @@
-#+TITLE: Project Management Logs
-#+OPTIONS: todo:nil tasgs:nil ^:nil
-
-* Logs :LOG:PROJECTMANAGEMENT:
