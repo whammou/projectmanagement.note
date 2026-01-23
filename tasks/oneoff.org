@@ -7,9 +7,9 @@
 ** OUTL Study the Fundamental of Tasks Management
 + *OBJECTIVE:* Study the basics of different tasks management system (include it in the new notes)
 + [[https://www.youtube.com/watch?v=ZKOL-rZ79gs][Project Management Simplify @Youtube]]
-*** EXPL Check out Eisenhower Matrix :TASKMANAGEMENT:
+*** EXPL Eisenhower Matrix :TASKMANAGEMENT:
 + *OBJECTIVE:* Checkout Eisenhower matrix for prioritizing tasks
 + *Reference:* [[https://www.eisenhower.me/eisenhower-matrix/][The Eisenhower Matrix @Blog]]
-*** EXPL Check out Agile Project Managing
+*** EXPL Agile Project Managing
 + *OBJECTIVE:* What is Agile Project Managing and is it relevant
 + *Reference:* [[https://www.atlassian.com/agile/project-management][Agile Project Management @Atlassian]]
