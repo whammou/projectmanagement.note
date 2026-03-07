@@ -1,0 +1,40 @@
+#+TITLE: Project Management – Overview
+#+DESCRIPTION: Project management methodologies.
+#+FILETAGS: :PROJECTMANAGEMENT:
+
+* Overview
+  Project management methodologies, tools, and best practices for planning and execution.
+
+* Directory Layout
+  | Path          | Purpose                                                          |
+  |---------------+------------------------------------------------------------------|
+  | =README.org=  | This file – high‑level description (you are reading it)           |
+  | =docs/=       | Org/Markdown documents – notes, guides, references                |
+  | =tasks/=      | Task files (`recurring.org`, `oneoff.org`, …)                    |
+  | =lists/=      | Ordered collections (checklists, templates) – optional            |
+  | =assets/=     | Project charts, templates, or any binary material – optional       |
+  | =.logs/=      | Log file (`log.org`) – chronological change log                  |
+  | =.git/=       | Git submodule (managed by the super‑repo)                         |
+
+* Tag & State Conventions (inherited from the main repo)
+  - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
+  - *Tags* – Use the hierarchical tag format:
+    :PROJECTMANAGEMENT:<CATEGORY>:<TYPE>:<DETAIL>:
+    Example: =:PROJECTMANAGEMENT:METHODOLOGY:AGILE:=
+
+* Typical Files
+  - =docs/<something>.org= – methodology guides, templates, retrospectives.
+  - =tasks/recurring.org= – regular project ceremonies or status reviews.
+  - =tasks/oneoff.org= – one‑time project milestones or deliverables.
+  - =assets/…= – Gantt charts, project charters.
+
+* How to Use
+  1. *Add a note* – create a new Org file under =docs/= and link to it from a task if needed.
+  2. *Create a task* – add a headline under the appropriate file in =tasks/= using the standard TODO states.
+  3. *Tag it* – follow the tag anatomy described above so Org‑mode search works across the whole super‑repo.
+  4. *Commit* – daily commits are encouraged; the super‑repo pulls submodule updates automatically.
+
+* References
+  - Main repository README.org – overall philosophy, state & tag definitions:
+    [[file:../README.org::#STATES and TAGS][Main README – STATES & TAGS]]
+  - External tools: nvim‑orgmode, Orgzly‑android (see main README for integration tips).
