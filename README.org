@@ -1,6 +1,6 @@
 #+TITLE: Project Management – Overview
 #+DESCRIPTION: Project management methodologies.
-#+FILETAGS: :PROJECTMANAGEMENT:
+#+FILETAGS: :@ProjectManagement:
 
 * Overview
   Project management methodologies, tools, and best practices for planning and execution.
@@ -19,8 +19,8 @@
 * Tag & State Conventions (inherited from the main repo)
   - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
   - *Tags* – Use the hierarchical tag format:
-    :PROJECTMANAGEMENT:<CATEGORY>:<TYPE>:<DETAIL>:
-    Example: =:PROJECTMANAGEMENT:METHODOLOGY:AGILE:=
+    :@ProjectManagement:<CATEGORY>:<TYPE>:<DETAIL>:
+    Example: =:@ProjectManagement:METHODOLOGY:AGILE:=
 
 * Typical Files
   - =docs/<something>.org= – methodology guides, templates, retrospectives.
