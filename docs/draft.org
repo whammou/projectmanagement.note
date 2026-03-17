@@ -6,7 +6,7 @@
 #+FILETAGS: :DOC:DRAFT:PROJECTMANAGEMENT:
 #+HTML:<details>
 
-* Document Drafts :DOC:DRAFT:PROJECTMANAGEMENT:META:
+* Document Drafts :DOC:DRAFT:PROJECTMANAGEMENT:#Meta:
 #+HTML:</details>
 
 #+NAME:Warning Message
