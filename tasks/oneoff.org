@@ -3,7 +3,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Project Management Oneoff Tasks
 
-* List of Oneoff Tasks :%Task:_Oneoff:@ProjectManagement:#Meta:
+* List of Oneoff Tasks :%Task:_Oneoff:PROJECTMANAGEMENT:meta:
 ** OUTL Study the Fundamental of Tasks Management
 + *OBJECTIVE:* Study the basics of different tasks management system (include it in the new notes)
 + [[https://www.youtube.com/watch?v=ZKOL-rZ79gs][Project Management Simplify @Youtube]]
