@@ -1,4 +1,5 @@
-#+TITLE: Project Management Logs
-#+OPTIONS: todo:nil tasgs:nil ^:nil
+#+TITLE: Project Management Log
+#+DESCRIPTION: Logs of finished items
+#+FILETAGS: :PROJECTMANAGEMENT:LOG:
 
 * Logs :LOG:PROJECTMANAGEMENT:
