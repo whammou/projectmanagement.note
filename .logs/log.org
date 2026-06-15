@@ -1,5 +1,0 @@
-#+TITLE: Project Management Log
-#+DESCRIPTION: Logs of finished items
-#+FILETAGS: :topProjectmanagement:LOG:
-
-* Logs :LOG:topProjectmanagement:
